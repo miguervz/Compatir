@@ -23,7 +23,7 @@ public class Compartir
 	}
 	public static void main(String[] args)
 	{
-		Compartir objeto = new Compartir(33);
+		Compartir objeto = new Compartir(66);
 		System.out.println(objeto.getVariable());
 	}
 }
